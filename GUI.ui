@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1000</width>
-    <height>763</height>
+    <width>900</width>
+    <height>780</height>
    </rect>
   </property>
   <property name="sizePolicy">
@@ -15,6 +15,24 @@
     <horstretch>2</horstretch>
     <verstretch>2</verstretch>
    </sizepolicy>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>900</width>
+    <height>780</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>900</width>
+    <height>780</height>
+   </size>
+  </property>
+  <property name="sizeIncrement">
+   <size>
+    <width>0</width>
+    <height>0</height>
+   </size>
   </property>
   <property name="windowTitle">
    <string>Voting_menu</string>
@@ -525,7 +543,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>1000</width>
+     <width>900</width>
      <height>25</height>
     </rect>
    </property>
